@@ -7,9 +7,10 @@ export const Header = () => {
       <p>
         音符記号ボタンでト音へ音の切り替えができます。へ音はト音の1オクターブ下です。
       </p>
-      <p>対応コードはC, D♭ , D, E♭, E, F, F♯, G, A♭, A, B♭, B系です。
+      <p>
+        対応コードはC, D♭ , D, E♭, E, F, F♯, G, A♭, A, B♭, B系です。
         <a
-          href="https://github.com/botanic7arc/chord-on-staff"
+          href="https://github.com/botanic7arc/chord-on-staff/blob/master/ChordList.adoc"
           target="_blank"
           rel="noopener noreferrer"
         >
